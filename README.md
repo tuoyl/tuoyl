@@ -1,4 +1,4 @@
-### Hi there 👋 I am Youli, to know more about me, please see [www.youlituo.pro](www.youlituo.pro)
+### Hi there 👋 I am Youli, to know more about me, please see [www.youlituo.pro](https://tuoyl.github.io/academicpages/) 
 
 <!--
 **tuoyl/tuoyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
