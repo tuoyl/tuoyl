@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Youli, to know more about me, please see [www.youlituo.pro](https://tuoyl.github.io/academicpages/) 
-![](https://leetcard.jacoblin.cool/tuoyl?ext=activity)
+![](https://leetcard.jacoblin.cool/tuoyl?ext=heatmap)
 ![Youli's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuoyl&show_icons=true&theme=transparent)
 
 <!--
